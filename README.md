@@ -1,2 +1,0 @@
-# scribaltoolkit.github.io
-website

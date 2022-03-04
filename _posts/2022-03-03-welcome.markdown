@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Welcome to Scribal Tookit"
+date:   2022-03-03 19:03:15 +0000
+categories: welcome
+---
+
+Welcome to Scribal Toolkit
+
+A test link for a scribal palette at the BM [EA52942][EA12784-link] and a [doc][EA12784-text]
+
+
+[EA12784-link]: https://www.britishmuseum.org/collection/object/Y_EA12784
+[EA12784-text]: https://journals.sagepub.com/doi/pdf/10.1177/030751333201800108
+
+
