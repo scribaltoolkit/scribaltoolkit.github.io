@@ -28,7 +28,7 @@ twitter_username: andy1138
 github_username:  andy1138
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
